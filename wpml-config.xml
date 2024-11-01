@@ -1,0 +1,10 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">sck-banner</custom-type>
+  </custom-types>
+
+  <custom-fields>
+    <custom-field action="copy-once" group="SCK Banner Texts">SCK_BannerTexts</custom-field>
+  </custom-fields>
+
+</wpml-config>

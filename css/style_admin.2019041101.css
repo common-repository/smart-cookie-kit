@@ -1,0 +1,13 @@
+.post-type-sck-banner .NMOD_SCK_NoticeError         , .nmod_sck_backend .NMOD_SCK_NoticeError          {border-left:4px solid #fb000a;}
+.post-type-sck-banner .NMOD_SCK_NoticeWarning       , .nmod_sck_backend .NMOD_SCK_NoticeWarning        {border-left:4px solid #ff8c0a;}
+.post-type-sck-banner .NMOD_SCK_NoticeInfo          , .nmod_sck_backend .NMOD_SCK_NoticeInfo           {border-left:4px solid #00b9eb;}
+.post-type-sck-banner .NMOD_SCK_FieldLabel          , .nmod_sck_backend .NMOD_SCK_FieldLabel           {display:block;}
+.post-type-sck-banner .NMOD_SCK_FieldNote           , .nmod_sck_backend .NMOD_SCK_FieldNote            {margin:5px 0;padding:5px 12px;font-size:.8em;}
+.post-type-sck-banner .NMOD_SCK_ToggableTextButton  , .nmod_sck_backend .NMOD_SCK_ToggableTextButton   {width:16px;vertical-align:middle;cursor:pointer;margin-left:8px;}
+.post-type-sck-banner .NMOD_SCK_ToggableText        , .nmod_sck_backend .NMOD_SCK_ToggableText         {margin:5px 0;padding:5px 12px;font-size:.8em;display:none;}
+.nmod_sck_backend a.warning {color:#fb000a;}
+.nmod_sck_backend hr {margin:40px 0;}
+.nmod_sck_backend pre.code {background-color:#000;color:#f1f1f1;padding:20px;max-height:250px;overflow:scroll;}
+.nmod_sck_backend .accordion h4 {background-color:#e6e6e6;border:1px solid #ededed;cursor:pointer;padding:5px;}
+.nmod_sck_backend .accordion h4.SCK-ActualVersion {background-color:#1CD30F21;}
+.nmod_sck_backend .SCK-ActualVersion {border-left:5px solid #1CD30FD6; background-color:#1CD30F21;padding:0 10px;-webkit-transition:.5s ease-in-out;-moz-transition:.5s ease-in-out;-o-transition:.5s ease-in-out;transition:.5s ease-in-out}
